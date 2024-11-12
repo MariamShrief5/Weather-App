@@ -35,12 +35,6 @@ The Weather App is a web-based application that provides users with real-time we
    - **Responsive Design**: Improve skills in creating layouts that adapt to different devices.
    - **JavaScript Skills**: Gain experience in handling events, managing asynchronous calls, and updating the DOM.
 
-6. **Potential Enhancements**:
-   - **User Authentication**: Save favorite locations for registered users.
-   - **Weather Maps**: Integrate visual maps showing temperature or rainfall patterns.
-   - **Voice Search**: Enable users to search for weather via voice commands.
-   - **Additional Metrics**: Include UV index, air quality, or sunrise/sunset times.
-
 # Tools and Technologies:
 - **Frontend**: HTML, CSS, JavaScript.
 - **API**: OpenWeatherMap API, Weatherstack API, or any other reliable weather API to fetch weather data.
