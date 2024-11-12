@@ -17,11 +17,9 @@ The Weather App is a web-based application that provides users with real-time we
    - **Temperature Unit Toggle**: Users can switch between Celsius and Fahrenheit.
    - **Weather Icons and Animations**: Uses visual icons or animations to represent weather conditions, enhancing user experience.
    - **Responsive Design**: Works seamlessly on both desktop and mobile devices.
-   - **Optional Alerts**: Notifies users of extreme weather conditions like storms or heavy rainfall (if available in the API).
 
 3. **Technology Stack**:
    - **Frontend**: HTML, CSS, JavaScript (or frameworks like React or Angular for a more dynamic and modular interface).
-   - **Backend (Optional)**: Node.js to manage API calls or store recent searches in a database.
    - **API**: OpenWeatherMap API, Weatherstack API, or any other reliable weather API to fetch weather data.
    - **Version Control**: Git/GitHub for version management and collaboration.
    
