@@ -19,7 +19,7 @@ The Weather App is a web-based application that provides users with real-time we
    - **Responsive Design**: Works seamlessly on both desktop and mobile devices.
 
 3. **Technology Stack**:
-   - **Frontend**: HTML, CSS, JavaScript (or frameworks like React or Angular for a more dynamic and modular interface).
+   - **Frontend**: HTML, CSS, JavaScript.
    - **API**: OpenWeatherMap API, Weatherstack API, or any other reliable weather API to fetch weather data.
    - **Version Control**: Git/GitHub for version management and collaboration.
    
@@ -42,7 +42,7 @@ The Weather App is a web-based application that provides users with real-time we
    - **Additional Metrics**: Include UV index, air quality, or sunrise/sunset times.
 
 # Tools and Technologies:
-- **Frontend**: HTML, CSS, JavaScript (or frameworks like React or Angular for a more dynamic and modular interface).
+- **Frontend**: HTML, CSS, JavaScript.
 - **API**: OpenWeatherMap API, Weatherstack API, or any other reliable weather API to fetch weather data.
 - **Version Control**: Git/GitHub for version management and collaboration.
   
