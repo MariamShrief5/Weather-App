@@ -45,24 +45,20 @@ The Weather App is a web-based application that provides users with real-time we
 
 # Tools and Technologies:
 - **Frontend**: HTML, CSS, JavaScript (or frameworks like React or Angular for a more dynamic and modular interface).
-- **Backend (Optional)**: Node.js to manage API calls or store recent searches in a database.
 - **API**: OpenWeatherMap API, Weatherstack API, or any other reliable weather API to fetch weather data.
 - **Version Control**: Git/GitHub for version management and collaboration.
   
 # Demo:
-https://github.com/user-attachments/assets/90c68edd-2ad0-4fe5-8656-b7713f3e390d
+https://github.com/user-attachments/assets/c34aef4c-708a-4b9d-9e4a-616f974ba9a8
+
 # Screenshots:
 # Dark Mode
-![Screenshot 1](https://drive.google.com/uc?export=view&id=1JUknhjN2LW6LBGHNHtSaELxxiKmj9-MI)    
+![Screenshot 1](https://drive.google.com/uc?export=view&id=1LQDgK8I5o8Kldrk6tY9ZK5sF8Rnq_SMt)    
 # Light Mode 
-![Screenshot 2](https://drive.google.com/uc?export=view&id=1smzI9aq9JCx-F2lTr91PNzMgyowdDDpI)
+![Screenshot 2](https://drive.google.com/uc?export=view&id=1XtNqX__jqdP1AgvJa3FBrxDnFUyPojZ0)
 # Ask a Question and Show a Loading Animation while waiting the API Response
-![Screenshot 3](https://drive.google.com/uc?export=view&id=1hFpciYJ8vJbLf1mqtCifdRFuCbcJ01rZ)
+![Screenshot 3](https://drive.google.com/uc?export=view&id=1ZR2ECPygyNtkoIwKpY3wulzuqc8LkO35)
 # Disappear a Loading Animation and Show API Response 
-![Screenshot 4](https://drive.google.com/uc?export=view&id=1PCrE6mzMqqzWc-7Sc1mjVzcmJYo2pvtC)
+![Screenshot 4](https://drive.google.com/uc?export=view&id=1LGYt-d7651-3PWqbi5uQ4meLcq0eZYom)
 # Another Questions 
-![Screenshot 5](https://drive.google.com/uc?export=view&id=1FpouMxZeA_-RtuBber7a1lCPEFjvTrAy)
-# You can choose One Question From 4 Crads in The First Page Such This Question, I Focus on it:
-![Screenshot 6](https://drive.google.com/uc?export=view&id=1w32amWLo08T9XAic87LA1CoCPFy97Eyg)
-# Once you Click on it!, ConvoCraft show For You a Response in Dynamic Way
-![Screenshot 7](https://drive.google.com/uc?export=view&id=1qblK6JJwdnHpM_lk3iCNhvfNwfC6bIf-)
+![Screenshot 5](https://drive.google.com/uc?export=view&id=1Moy9hqcT9KUq7pDJq6sPC4iCQbZmnWEl)
