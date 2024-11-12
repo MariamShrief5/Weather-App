@@ -52,13 +52,13 @@ The Weather App is a web-based application that provides users with real-time we
 https://github.com/user-attachments/assets/c34aef4c-708a-4b9d-9e4a-616f974ba9a8
 
 # Screenshots:
-# Dark Mode
+# First, You Must Click on Allow Location to Show For You Current City or Country
 ![Screenshot 1](https://drive.google.com/uc?export=view&id=1LQDgK8I5o8Kldrk6tY9ZK5sF8Rnq_SMt)    
-# Light Mode 
+# Your Current Loctaion, Details about Weather Day and Show 6-Days Weather
 ![Screenshot 2](https://drive.google.com/uc?export=view&id=1XtNqX__jqdP1AgvJa3FBrxDnFUyPojZ0)
-# Ask a Question and Show a Loading Animation while waiting the API Response
+# Search Through a Specific City or Country
 ![Screenshot 3](https://drive.google.com/uc?export=view&id=1ZR2ECPygyNtkoIwKpY3wulzuqc8LkO35)
-# Disappear a Loading Animation and Show API Response 
+# Cairo Weather Now
 ![Screenshot 4](https://drive.google.com/uc?export=view&id=1LGYt-d7651-3PWqbi5uQ4meLcq0eZYom)
-# Another Questions 
+# All Cites Or Countries, You Search Through
 ![Screenshot 5](https://drive.google.com/uc?export=view&id=1Moy9hqcT9KUq7pDJq6sPC4iCQbZmnWEl)
